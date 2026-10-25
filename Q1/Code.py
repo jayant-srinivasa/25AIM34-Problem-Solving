@@ -52,3 +52,4 @@ with open(output_file, "w") as file:
         binary_arithmetic(-35, -12, '-')
 
 print("Output saved to:", output_file)
+
